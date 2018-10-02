@@ -1,0 +1,1554 @@
+{
+  "settings": {
+    "name": "Soouls-clone",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "colorm",
+      "title": "ColorM",
+      "styling": {
+        "primaryColor": "#f39c12",
+        "buttonsColor": "#000000",
+        "secondaryColor": "#9b59b6",
+        "successColor": "#2ecc71",
+        "infoColor": "#3498db",
+        "warningColor": "#f1c40f",
+        "dangerColor": "#e74c3c",
+        "titleFont": "Arvo",
+        "subtitleFont": "Montserrat",
+        "textFont": "Open Sans",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      },
+      "additionalSetColors": [
+        "#9fa3a7",
+        "#b834ee",
+        "#212121"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.7.2",
+    "uniqCompNum": 132,
+    "versionPublish": "4.8.2",
+    "screenshot": "screenshot.png",
+    "siteFonts": [],
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".lead": {
+              "color": "#93a3a7",
+              "font-style": "italic"
+            },
+            ".mbr-section-title": {
+              "font-size": "48px"
+            },
+            ".mbr-section-text": {
+              "font-size": "21px",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "buttonAlign": "right",
+            "showArrow": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/suburbs-2211335-1280-1280x970.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2c3e50",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.4"
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "title": "Cloverland Church of Christ<br>20 Evangelism Insights...",
+          "text": "Increase Traffic, Increase Bible Studies, God Gives The Increase",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1q"
+        },
+        {
+          "_styles": {
+            ".lead": {
+              "color": "#9fa3a7"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            }
+          },
+          "_params": {
+            "showImages": true,
+            "showNumber": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "imageSize": 50,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.9
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/notebook/nb11.png",
+              "class": "card-img-top",
+              "width": 600
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/N92VPN4btK8",
+              "aspectratio": "4:3",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title1": "Real Outreach!!",
+          "subtitle1": "Here's your intro video...have a look!!",
+          "caption1": "Did you know that there are millions of people in your city who search religious topics everyday? &nbsp;Are you there to help them? &nbsp;We'll show you how. &nbsp;Take a look at the video.",
+          "number1": "1",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_anchor": "features6-2t"
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "font-size": "25px"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "showText1": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/07.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Ready to get started?",
+          "text": "<br><br>Take a look at the reports below, they will help you see how well you're doing<br>reaching lost souls online....",
+          "text1": "or <a href=\"http://mobirise.com\">Check FAQ</a>.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://mobirise.com\">start here</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "call5",
+          "_anchor": "call5-3n"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "2",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "filterBgColor": false,
+            "bgColor": "#fff",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/question-mark-1872665-1280-1280x704.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/question-mark-1872665-1280-1280x704-800x440.jpg",
+                "alt": "",
+                "title": "",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "caption": "2. Your website<br>(Not Available)",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/agenda-2296195-1283-1280x853.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/agenda-2296195-1283-1280x853-654x346.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "3. Website Suggestions<br>(Not Available)",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/mbr-4-1920x1279.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-4-1920x1279-789x436.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "4. PPC Audit Report<br>(Not Available)",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/computer-767776-1281-1280x853.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/computer-767776-1281-1280x853-800x438.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "5. SEO Report<br>(Not Available)",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/cloverland-mapsample-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/cloverland-mapsample-1920x1080-800x513.png",
+                "alt": "",
+                "title": "",
+                "caption": "7. Hoosiers By the Numbers",
+                "active": true
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/41465213-xxl-1-2000x1441.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/41465213-xxl-1-2000x1441-800x473.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "9. Your Website Traffic&nbsp;<br>(Not Available)",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/website-design-co-web-design-company-monthly-website-design-packages-in-sa-free-750x442.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-design-co-web-design-company-monthly-website-design-packages-in-sa-free-750x442-750x442.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "6. Landing Page Sample",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/reporting2-900x668.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/reporting2-900x668-719x453.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "8. SMM Social Media Report<br>(Not Available)",
+                "active": false
+              }
+            ]
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
+          "allItem": "ALL",
+          "_name": "gallery3",
+          "_anchor": "gallery3-3k",
+          "_styles": {
+            ".mbr-gallery-title": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "18px",
+              "text-align": "center",
+              "color": "#333333"
+            },
+            ".mbr-gallery-title I": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_styles": {
+            "H3": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "showTitles": true,
+            "showText": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/extFeatures1/images/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#2c2c2c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#2c2c2c",
+            "overlayOpacity": 0.75
+          },
+          "title": "10. Your stats",
+          "text": "The first number represents the number of Christians at Cloverland ( just a guest approximately 100) divided by the 5,752,884 people within a 30 miles radius of the building you get the percentage of people who are Christians attending the Cloverland congregation. &nbsp;We can help increase this percentage!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">learn more</a>",
+          "subtitle1": "Views",
+          "subtitle2": "Percent",
+          "subtitle3": "website visitors",
+          "subtitle4": "Bible studies&nbsp;<br>from website",
+          "number1": "69809",
+          "number2": ".000017",
+          "number3": "0",
+          "number4": "0",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "counters3",
+          "_anchor": "counters3-39"
+        },
+        {
+          "_styles": {
+            ".subtitle": {
+              "font-size": "19px"
+            },
+            ".display-4 H1": {
+              "text-align": "center",
+              "font-size": "32px"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "showHeader": true,
+            "showHeaderText": true,
+            "showSubtitles": true,
+            "showTitles": true,
+            "showText": true,
+            "showButtons": true,
+            "activeColor": "#9b59b6",
+            "themeColor": "@primaryColor",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/09.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "header": "<h1>We're On A Mission!</h1><h1>We'll help Cloverland Church of Christ increase Bible studies...</h1>",
+          "text": "<b>The Lord commanded us to GO teach ALL NATIONS. &nbsp;Matthew 28:18-20.</b>&nbsp;<br>Most congregations use their websites to show a few pictures of the building, give a few scriptures (which is great!) and give the times of the worship services. &nbsp;We're on a mission to help congregations reimagine their online presence. <b>Congregations should expect their online efforts to generate Bible study leads every day, every month, year after year.</b> &nbsp;How would you like to be able to reach prospects who live near the church building? &nbsp;Contact people who live in your part of town or city where your located and engage them with God's word! &nbsp;<br>We got you covered with our total solution!",
+          "subtitle1": "Online OUT-reach solution",
+          "subtitle2": "Bible study tools",
+          "title1": "Soouls Ads &nbsp;",
+          "title2": "Bible Study Bot",
+          "text1": "We use PPC, SEO, SEM, Native Ads, Facebook Ads, Twitter Ads, Instagram Ads, What's App Ads, and more to drive prospects seeking answers to Bible questions. &nbsp;We have an exhasutive Soouls dashboard that tracks all the results of each campaign. &nbsp;As our sooul winning partner, you will have your own dashboard to check the number of impression, CTR (click trough rates), number of Bible study leads and much more.",
+          "text2": "We have created online Bible surveys and Bible Study Bots that will get prospects started on their journey to learning God's plan of salvation and learning about Christ's church, Matthew 16:18. &nbsp;These tools are designed to handle massive studies, 24/7/365 days a year, with fewer Christians needed to handle the studies. &nbsp;Get started today!! &nbsp;People love surveys, that's why it's a Billion dollar industry!",
+          "buttons1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">start here</a>",
+          "buttons2": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">start here</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "call6",
+          "_anchor": "call6-1v"
+        },
+        {
+          "_styles": {
+            ".card-block p": {
+              "font-size": "15px"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showName": true,
+            "showBio": false,
+            "autoplay": true,
+            "timeout": "8",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showBullets": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/flight-mountains-sky-flying.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
+            "visibleSlides": "4",
+            "slides": [
+              {
+                "active": false,
+                "text": "<p>JW.org has 1,261 Keywords ranked on first page of Google and 490 keywords on Yahoo and Bing first page</p>",
+                "authorName": "Jehovah Witnesses",
+                "authorBio": "DEVELOPER",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/jw-logo-160x51.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>LDS.org rank top 5 for: Bible, Bible dictionary, Christ, Holy Bible, Holy Ghost, Jesus Christ, N and O testament</p>",
+                "authorName": "Mormons",
+                "authorBio": "USER",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/mormons-160x49.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>“Tops 20,000,000 Net increase 882,332 1.2 Million people baptized 2015-2016</p><p>4.6% Increase&nbsp;</p><p><br></p>",
+                "authorName": "SDA",
+                "authorBio": "USER",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/7day-advent-156x160.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>600 Million Pentecostal and charismatic, 25% of all so called Christians.</p><p><br></p>",
+                "authorName": "Pentalcostal",
+                "authorBio": "USER",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/pentacostal-logo-160x59.png",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": true,
+                "text": "<p>Southern Baptist gain almost 500 churches last year and took in more than $11 Billion. &nbsp;47,000 churches.</p>",
+                "authorName": "Baptist",
+                "authorBio": "USER",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/baptist-logo-160x30.png",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p><span style=\"background-color: transparent;\">Over a Billion people &nbsp;51% of so-called Christians </span></p><p><span style=\"background-color: transparent;\">15.9% of the world's population.</span></p><p><br></p>",
+                "authorName": "Catholicism",
+                "authorBio": "USER",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/catholic-logo-160x62.png",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              }
+            ],
+            "controlBgLeft": "@PROJECT_PATH@/assets/images/left.png",
+            "controlBgRight": "@PROJECT_PATH@/assets/images/right.png"
+          },
+          "title": "11. Denominations are serious<br>about online outreach..are we?&nbsp;",
+          "subtitle": "Take a look at the recent figures on the denominations",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials2",
+          "_anchor": "testimonials2-3b"
+        },
+        {
+          "_styles": {
+            ".lead": {
+              "color": "#9fa3a7"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            }
+          },
+          "_params": {
+            "showImages": true,
+            "showNumber": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "imageSize": 50,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.9
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/notebook/nb11.png",
+              "class": "card-img-top",
+              "width": 600
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/NA6cyMuaX80",
+              "aspectratio": "4:3",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title1": "Bible Study Bot",
+          "subtitle1": "Our secret weapon&nbsp;",
+          "caption1": "We are excited about our Bible Study Bot. &nbsp;The Bot has unlimited potential such as: multiple studies at the same time, literally thousands of customization options depending on the religious beliefs of the prospects. &nbsp;Watch the Bot video, see it in action!!",
+          "number1": "12",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">learn more</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_anchor": "features6-3c"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showImages": true,
+            "showNumber": true,
+            "number1": "   13",
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "imageSize": 30,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.9
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/directories-2-450x290.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title1": "&nbsp;There are over 120+ directory sites",
+          "subtitle1": "can your congregation be found in<br> the Online directories?",
+          "caption1": "Not only is it important to come up on the directory sites, but it's important to make sure that all of the information for Cloverland church of Christ to be accurate on all sites.&nbsp;",
+          "number1": "01",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://www.yelp.com/search?cflt=churches&amp;find_loc=Houston%2C+TX\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">see houston results</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features14",
+          "_anchor": "features14-3d"
+        },
+        {
+          "_styles": {
+            ".elements-content": {
+              "padding-bottom": "50px"
+            },
+            ".mbr-section-subtitle": {
+              "letter-spacing": "2px",
+              "margin-bottom": "10px",
+              "font-weight": "700"
+            },
+            ".mbr-section-title, .tab-pane": {
+              "color": "#000"
+            }
+          },
+          "_params": {
+            "showHeader": true,
+            "showText": true,
+            "showImages": true,
+            "showTitles": true,
+            "tabs": "6",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/04.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.9
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "title": "14. Soouls: best out-reach solution",
+          "text": "Soouls is the only solution you'll need to reach prospects online and on mobile. &nbsp;Wheather you would like to reach the soouls who are located within a 25 miles radius to the building or you would like to expand your reach to Cebu in the Philppines. &nbsp;Our platform has no boundries. &nbsp;Our only limits is the INTERNET. But that's not really our limit because faithful Christians can continue to spread the word of God to areas where there is no Internet!!",
+          "title1": "PPC Pay Per Click",
+          "title2": "SEO Search Engine Optimization",
+          "title3": "NATIVE ADVERTISEMENTS&nbsp;",
+          "title4": "HOST ANYWHERE",
+          "title5": "OVER 2 BILLION PEOPLE ARE ON MOBILE",
+          "title6": "SMM Social Media Marketing",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-1z\" aria-expanded=\"false\">PPC Management</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-1z\" aria-expanded=\"false\">SEO Search Engine optimization</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-1z\" aria-expanded=\"true\">Native Ads</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-1z\" aria-expanded=\"false\">display ads</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-1z\" aria-expanded=\"false\">mobile ad</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-1z\" aria-expanded=\"true\">SMM Ads</a></li>",
+          "media11": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/banner-new-left-1012x554.png",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media12": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/analytics-survey-any-place-600x325.png",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media13": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/taboola-814x512.png",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media14": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nb4.png",
+              "class": "card-img-top",
+              "active": true
+            }
+          },
+          "media15": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nb5.png",
+              "class": "card-img-top",
+              "active": true
+            }
+          },
+          "media16": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nb6.png",
+              "class": "card-img-top",
+              "active": true
+            }
+          },
+          "media21": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media22": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "attachment",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media23": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "paperclip",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media24": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "upload",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media25": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "genius",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media26": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "text1": "&nbsp;<br>Our Pay Per Click solutions are tailor-made to get visitors to the Bible survey tool or the Bible Survey Bot from various search engines. The customization we offer will help your congregation get people who are interested in Bible subjects and those who want to learn more about God's word!<br><br>",
+          "text2": "Improving the visibility of one's website or web page in search engines is an uphill task. SEO is a process, which will get you listed via 'natural' or 'un-paid' or 'organic' search results in various search engines. &nbsp;We offer Ethical SEO services over time this will help your website appear higher and more frequently on the first page, resulting in an increase in the number of visitors.&nbsp;<br><br>",
+          "text3": "Native advertising is the use of paid ads that match the look, feel and function of the media format in which they appear. \n<br>Native ads are often found in social media feeds, or as recommended content on a web page. Unlike display ads or banner ads, native ads don't really look like ads. They look like part of the editorial flow of the page. The key to native advertising is that it is non-disruptive - it exposes the reader to advertising content without sticking out like a sore thumb.",
+          "text4": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
+          "text5": "&nbsp;<br>-More than 50% of all 'Local' searches are done from a mobile device.\n<br>-83% of users search for local stores and retailers through their mobile device.\n<br>-63% use smartphones and tablets to search for product information before making a purchase.\n<br>-200+ million (1/3 of all users) access Facebook from a mobile device <br>-91% of all mobile internet use is social related.",
+          "text6": "We can help congregation's solidify their presence online with a number of Social Media Optimization strategies. SMM is the methodization of social media activity, targeting unique visitors to one's website. There are many benefits to using Social media marketing such as: improvements in search engine rankings and online visibility. &nbsp;With a strong social media profile, many people can interact with the teachings of the Bible and familarize themselves with the church of Christ.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header9",
+          "_anchor": "header9-1z"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-text": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#f39c12",
+              "text-align": "right"
+            },
+            ".mbr-section-text": {
+              "font-size": "18px"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "fullScreen": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showBullets": true,
+            "bgColor": "#eeeeee",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/banner-new-left-1012x554.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "title": "A/B <br>testing",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "The best way for your dollar to reach more lost soouls is A/B testing. <br>A/B testing (sometimes called split testing) is comparing two versions of a web page or creatives to see which one performs better. You compare two web pages by showing the two variants (let's call them A and B) to similar visitors at the same time.&nbsp; &nbsp;.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.8"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/social-media-960x490.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "title": "&nbsp;social media ads",
+                "overlay": true,
+                "overlayOpacity": "0.8",
+                "contentAlign": "left",
+                "text": "Have you ever recieved a Bible study prospect from Facebook, Instagram, Twitter, What's App? &nbsp;We'll help you get Bible studies prospects using social. &nbsp;Afterall, millions use social everyday.&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/keyword-ranking-960x490.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "title": "you're own dashboard",
+                "overlay": true,
+                "overlayOpacity": "0.8",
+                "contentAlign": "right",
+                "text": "Get all of your data in one easy-to-use dash board. &nbsp;See all of your important metrics such as: &nbsp;your PPC metrics, SEO stats, all of your leads, KPI (Key performance Indicators) all Bible study leads and more....",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/native-ad-examples-2-1600x904.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "title": "run native ads",
+                "overlay": true,
+                "overlayOpacity": "0.7",
+                "contentAlign": "left",
+                "text": "What are native ads? &nbsp;A piece of writing or picture or video, etc. in an online publication that resembles the publication's editorial content but is paid for by an advertiser.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/publishers-section-img-1208x528.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "title": "ads on mobile",
+                "overlay": true,
+                "overlayOpacity": "0.7",
+                "contentAlign": "right",
+                "text": "We'll help you put the gospel of Jesus Christ everywhere. &nbsp;We can target key religious sites on mobile. &nbsp;Many people read and study Bible material all the time on their phones.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrow-left.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrow-right.png\">",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_anchor": "slider3-23"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "animText1": "40,000 Campaigns",
+            "animText2": "82% renewal rate",
+            "animText3": "OVER 14 years in SEO and PPC",
+            "typeSpeed": "80",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/workplace-1245776-1280-1280x853.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#34495e",
+            "overlayOpacity": "0.9"
+          },
+          "title": "15. team work<br>in house and out of house &nbsp;<br>",
+          "text": "Because our contractors manage a large volume of campaigns, we can leverage economies of scale and offer extremely affordable packages. No-one can beat us on value. They have over 14 years experience in SEO and PPC. If that's not enough; &nbsp;they have managed over 40,000 campaigns with an 82% renewal rate. &nbsp;Our team is smart, experienced and dedicated. With 350+ search engine specialists, our contractor organization is one of the largest marketing companies in the world. &nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header11",
+          "_anchor": "header11-2e",
+          "_styles": {
+            "H1": {
+              "font-size": "48px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "&nbsp;16. The statistics, from a directory published by 21st Century Christian, show a loss of 526 churches and 78,436 adherents (members + children) in the past six years. The survey counted 12,629 churches with 1,578,281 ad- herents in 2009. Those numbers represent the lowest totals since 1980, despite an in- crease in the American population of 36.3 percent. In the article, many reasons are given for the decline:&nbsp;<a href=\"https://www.timberlandchurch.org/articles/declining-church-growth/\">https://www.timberlandchurch.org/articles/declining-church-growth/</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3e"
+        },
+        {
+          "_params": {
+            "progress1": "9",
+            "progress2": "95",
+            "progress3": "59",
+            "progress4": "6",
+            "progress5": "59",
+            "progress6": "46",
+            "showTitles": true,
+            "showTexts": true,
+            "progressColor": "@primaryColor",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/03.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#f3f0f0",
+            "overlayOpacity": 0.7
+          },
+          "title1": "17. Lord's church is decreasing per year",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "One estimate showed that instead of growing at a rate of 9-10% a year. &nbsp;The Lord's church is in decline in the states. &nbsp;We can work to change this trend.&nbsp;",
+          "title2": "18. number of christians who have never shared god's plan of salvation",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "A poll was taken that recorded that 95% of members of the Lord's church has never shared God's plan of salvation with anyone. &nbsp;Do not know if this stat is accurate or not.",
+          "title3": "&nbsp;19. percentage OF Millennials who dropped out of \"church\"",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Many young people do not go to church. &nbsp;They do not see serving God as important. &nbsp;As members of the Lord's church, we need to make every effort to reach these individuals with the gospel of Christ.",
+          "title4": "20.number of websites that are optimized for bible study leads",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "This is my guess...for what it is worth. &nbsp;I believe the majority of websites in the brother hood are not being used to generate Bible studies on a daily basis. &nbsp;Soouls.com can help you with that!!",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "progress-bar7",
+          "_anchor": "progress-bar7-2g",
+          "_styles": {
+            "path[stroke]": {
+              "stroke": "@primaryColor !important"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".elements-content": {
+              "padding-bottom": "140px"
+            },
+            ".mbr-section-subtitle": {
+              "letter-spacing": "2px",
+              "margin-bottom": "10px",
+              "font-weight": "700"
+            },
+            ".mbr-section-title, .tab-pane": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "margin-bottom": "60px"
+            },
+            ".nav-tabs": {
+              "margin-top": "90px"
+            }
+          },
+          "_params": {
+            "showHeader": true,
+            "showImages": true,
+            "showTitles": true,
+            "tabs": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/04.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#666666",
+            "overlayOpacity": "1"
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "title": "our growth methodogy",
+          "title1": "LET'S CHAT",
+          "title2": "CREATIVES",
+          "title3": "RUNNING ADS",
+          "title4": "BIBLE STUDY BOT/SURVEYS/STUDIES",
+          "title5": "FOLLOW UP&nbsp;",
+          "title6": "CONTACT FORMS",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header5-1p\" aria-expanded=\"false\">let's chat</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header5-1p\" aria-expanded=\"false\">CreativeS</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header5-1p\" aria-expanded=\"true\">running ads</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header5-1p\" aria-expanded=\"false\">Bible Survey</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header5-1p\" aria-expanded=\"true\">FOLLOW UP</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header5-1p\">Beautiful</a></li>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "users",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "idea",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "growing-chart",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "layers",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "clock",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "text1": "We want to get to know all of our Brothers and Sisters in Christ. &nbsp;See us as your partner in soul winning and making sure that the Lord's church will continue to grow and prosper now and until the end of time. &nbsp;Like all of the faithful members who have gone before, we have a responsibility to use all of our resources to reach the lost. &nbsp;Contact us to see how we can work together. &nbsp;",
+          "text2": "<br>After we chat, we'll be able to understand what our next steps should be. &nbsp;Do you have a website that converts visitors to Bible study leads? &nbsp;Do you need an upgrade on your website or a total makeover. &nbsp;Do you have landing pages where visitors can go to get specific answers to Bible questions? &nbsp;Do you have videos that drives Bible study leads? &nbsp;These are the type of questions that must be answered as we get started on the right creatives.",
+          "text3": "You can have the best website, landing pages and Bible videos, but if they get no traffic it will not be productive. &nbsp;That's why our experienced team of online marketers will help your site get tons of quality visitors who are interested in God's word. There are millions online and on mobile just waiting for someone like you and me to share the truth with them.",
+          "text4": "OK, we can use the Ads to drive traffic to your landing page or to the Bible survey or the Bible Study Bot. &nbsp;This is a great tool that the user can interact with and it gives them the answers to their Bible questions. &nbsp;Give it a TRY! &nbsp;People love taking surveys, that's why it's a Billion dollar industry. &nbsp;<br><br>We continue to conduct Bible surveys offline as well. &nbsp;They get very good response. &nbsp;The surveys allow us to get important information on the beliefs of our prospects, so we can help them compare their beliefs to what the Bible teaches. &nbsp;It's an eye opening experience for everyone.&nbsp;<br><br>",
+          "text5": "",
+          "text6": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-1p"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.875rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.948rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#222f3d"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2f4154!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#34495e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f39c12!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#34495e",
+            "fontSize": 0.875,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">SOOULS.COM</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">20 Insights</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-1d\">Intro Video</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery3-3k\">Go to Reports<br></a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Go to Bot</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Denominations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Services&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">More Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form2-3h\">Get Started Today</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#intro2-1i\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "rocket",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e74c3c",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SOOULS.COM</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-9"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "rows": "2",
+            "bgItem1": "#f5f5f5",
+            "bgItem2": "#ffc80a",
+            "bgItem3": "#d2dde4",
+            "bgItem4": "#212121",
+            "paddingTop": 2,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/pricing-table/pricing-table-bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Our in house team..",
+          "subtitle": "This new-found knowledge may then be used by engineers to create new tools and machines.",
+          "person1": "Grady Jones",
+          "person2": "Britney&nbsp;",
+          "person3": "Brother McCoy White",
+          "person4": "Want to join our team",
+          "subtitle1": "FOUNDER",
+          "subtitle2": "SOCIAL MEDIA MANAGER",
+          "subtitle3": "BIBLE STUDY DESIGN",
+          "subtitle4": "Independant Reps",
+          "caption1": "I'm brother Grady Jones. &nbsp;I'm a member of the Emporia church of Christ in Emporia, Virginia. &nbsp;I have been a member of the church of Christ for over 30 years. &nbsp;<br><br>I have preached, worked with the youth, help with evangelism for many years.<br><br>My real passion is evangelism, and especially spreading the gospel online. &nbsp;I see this as an untapped market for the Lord's church. &nbsp;I have created websites and other tools to help members share God's word.<br><br><br><br>",
+          "caption2": "I am Adanma Nwamuo, a Nigerian. I have a Bsc degree in Biochemistry and a certificate in social media marketing. I was born and raised in the Lord's Church and got baptised in March 2008. \n<br>Having people ask \"what church is that\" or \"I haven't heard of such denomination\" drives me to spread the word and using this medium makes it great, easier and a lot faster. I am so excited for all churches of Christ as this is a huge milestone in making sure the true gospel of Christ reaches all corners of the earth.",
+          "caption3": "In daily life, maybe you have so familiar with a number of daily necessities, well, do you .",
+          "caption4": "Do you get excited about helping the Lord's Church? &nbsp; Are you a self starter and a team player? &nbsp; Contact us!! &nbsp;We provide online evangelism tools exclusively for churches of Christ. &nbsp;Our team is growing, contact us today!!",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/flyer-3-600x776.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/brits-pic-600x600.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mccoypic-600x800.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vacancy-3098735-640-600x600.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "team1",
+          "_anchor": "team1-29",
+          "_styles": {
+            "H1": {
+              "color": "#e74c3c"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".form-control-label": {}
+          },
+          "_params": {
+            "showSubtitle": true,
+            "showTitle": true,
+            "showText": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/04.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "overlay": false,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.5
+          },
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@THEME_PATH@/components/_images/form/icon-phone.png\">",
+          "title": "CONTACT FORM",
+          "subtitle": "We'll help you get (BSL) Bible Study Leads....Increase bible studies...help the lord's church grow....",
+          "text": "LET'S HAVE A CHAT ABOUT REACHING LOST SOOULS RIGHT AROUND THE CORNER FROM YOUR BUILDING AND IN YOUR CITY AND TOWN. <br>DO IT NOW!!  \n<br>WE KNOW THAT OUR LIFE IS A VAPOR.  JAMES 4:14",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "form": {
+            "action": "gctpam@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-3h"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".form-control-label": {}
+          },
+          "_params": {
+            "showSubtitle": true,
+            "showTitle": true,
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/04.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "overlay": false,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.5
+          },
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@THEME_PATH@/components/_images/form/icon-phone.png\">",
+          "title": "Subscribe now!",
+          "subtitle": "Get notified about new amazing products",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">send</a>",
+          "form": {
+            "action": "gctpam@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "visible": false,
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form3",
+          "_anchor": "form3-2a"
+        }
+      ]
+    }
+  }
+}
